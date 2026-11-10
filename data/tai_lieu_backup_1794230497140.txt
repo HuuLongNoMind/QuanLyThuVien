@@ -1,0 +1,26 @@
+# LOAI|ma|nxb|gia|ext1|ext2|trangThai|soLuongTong|soLuongDangMuon
+SACH|S01|NXB Trẻ|50000|Nguyễn Nhật Ánh|250|true|15|4
+SACH|S02|NXB Kim Đồng|45000|Tô Hoài|180|true|5|5
+SACH|S03|NXB Văn Học|800|Nam Cao|210|true|10|3
+SACH|S04|NXB Giáo Dục|2000|Trần Trọng Kim|350|true|8|1
+SACH|S05|NXB Hội Nhà Văn|1200|Bảo Ninh|300|true|12|7
+SACH|S06|NXB Trẻ|900|Nguyễn Ngọc Tư|190|true|20|6
+SACH|S07|NXB Văn Học|500|Vũ Trọng Phụng|280|true|6|2
+SACH|S08|NXB Trẻ|1500|Nguyễn Nhật Ánh|220|true|18|11
+SACH|S09|NXB Kim Đồng|1100|Nguyễn Huy Tưởng|160|true|7|0
+SACH|S10|NXB Giáo Dục|3000|Ngô Tất Tố|240|true|14|8
+SACH|S11|NXB Trẻ|700|Nguyễn Xuân Xanh|310|true|9|4
+SACH|S12|NXB Văn Học|1300|Xuân Diệu|150|true|5|2
+SACH|S13|NXB Kim Đồng|2500|Nguyễn Du|400|true|25|14
+SACH|S14|NXB Hội Nhà Văn|600|Huy Cận|175|true|11|5
+SACH|S15|NXB Trẻ|1000|Nguyễn Nhật Ánh|200|true|16|9
+TAPCHI|TC01|NXB Trẻ|25000|12|10|true|10|3
+TAPCHI|TC02|NXB Kim Đồng|30000|10|9|true|8|2
+TAPCHI|TC03|NXB Khoa Học|35000|5|8|true|15|6
+TAPCHI|TC04|NXB Giáo Dục|28000|8|11|true|4|4
+TAPCHI|TC05|NXB Trẻ|22000|2|1|true|12|5
+TAPCHI|TC06|NXB Kim Đồng|32000|6|6|true|9|1
+TAPCHI|TC07|NXB Văn Học|27000|1|3|true|6|0
+BAO|B01|Báo Tuổi Trẻ|10000|04/11/2026|true|30|12
+BAO|B02|Báo Thanh Niên|10000|03/11/2026|true|25|18
+BAO|B03|Báo Nhân Dân|8000|02/11/2026|true|20|5
